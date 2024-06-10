@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=DaHee)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Hee)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iheeya&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iheeya)
 
  👋 Hi!  

@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iheeya)
 
  👋 Hi!  
- 🌱 I’m currently learning Python    
+ 
  
 
 

@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iheeya)
 
- 👋 Hi!  
+ 👋 Hi! I'm Frontend Developer
  
  
 
